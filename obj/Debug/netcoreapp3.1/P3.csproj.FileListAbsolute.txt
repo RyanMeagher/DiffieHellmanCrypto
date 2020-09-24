@@ -1,0 +1,12 @@
+/Users/owner/RiderProjects/P3/P3/bin/Debug/netcoreapp3.1/P3.deps.json
+/Users/owner/RiderProjects/P3/P3/bin/Debug/netcoreapp3.1/P3.runtimeconfig.json
+/Users/owner/RiderProjects/P3/P3/bin/Debug/netcoreapp3.1/P3.runtimeconfig.dev.json
+/Users/owner/RiderProjects/P3/P3/bin/Debug/netcoreapp3.1/P3.dll
+/Users/owner/RiderProjects/P3/P3/bin/Debug/netcoreapp3.1/P3.pdb
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.csprojAssemblyReference.cache
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.AssemblyInfoInputs.cache
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.AssemblyInfo.cs
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.csproj.CoreCompileInputs.cache
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.dll
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.pdb
+/Users/owner/RiderProjects/P3/P3/obj/Debug/netcoreapp3.1/P3.genruntimeconfig.cache
